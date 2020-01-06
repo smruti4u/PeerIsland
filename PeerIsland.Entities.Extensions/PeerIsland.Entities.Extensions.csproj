@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="PeerIsland.Entities">
+      <HintPath>Dlls\PeerIsland.Entities.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PeerIsland", "PeerIsland\PeerIsland.csproj", "{4F41E951-4813-4D99-A9D4-14FE5CFA5CBF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PeerIsland.Entities", "PeerIsland.Entities\PeerIsland.Entities.csproj", "{B3D04927-5155-46DF-9A39-94D17F695E2F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PeersIsland.DataAccess", "PeersIsland.DataAccess\PeersIsland.DataAccess.csproj", "{21CB6F5D-157E-4A91-A339-376D01CFF665}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PeerIsland.Common", "PeerIsland.Common\PeerIsland.Common.csproj", "{C9159DAB-7A7F-42B3-98EA-47543393DF8A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem2", "Problem2", "{31745E59-6F20-452A-ABB8-64D301C12F4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeerIsland.Entities.Extensions", "PeerIsland.Entities.Extensions\PeerIsland.Entities.Extensions.csproj", "{DBB64498-162F-4BCD-AE71-586C2E1F502F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F41E951-4813-4D99-A9D4-14FE5CFA5CBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F41E951-4813-4D99-A9D4-14FE5CFA5CBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F41E951-4813-4D99-A9D4-14FE5CFA5CBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F41E951-4813-4D99-A9D4-14FE5CFA5CBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3D04927-5155-46DF-9A39-94D17F695E2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3D04927-5155-46DF-9A39-94D17F695E2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3D04927-5155-46DF-9A39-94D17F695E2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3D04927-5155-46DF-9A39-94D17F695E2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21CB6F5D-157E-4A91-A339-376D01CFF665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21CB6F5D-157E-4A91-A339-376D01CFF665}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21CB6F5D-157E-4A91-A339-376D01CFF665}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21CB6F5D-157E-4A91-A339-376D01CFF665}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9159DAB-7A7F-42B3-98EA-47543393DF8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9159DAB-7A7F-42B3-98EA-47543393DF8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9159DAB-7A7F-42B3-98EA-47543393DF8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9159DAB-7A7F-42B3-98EA-47543393DF8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBB64498-162F-4BCD-AE71-586C2E1F502F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBB64498-162F-4BCD-AE71-586C2E1F502F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBB64498-162F-4BCD-AE71-586C2E1F502F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBB64498-162F-4BCD-AE71-586C2E1F502F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DBB64498-162F-4BCD-AE71-586C2E1F502F} = {31745E59-6F20-452A-ABB8-64D301C12F4E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {616F664E-3E41-4F12-B24B-E3263A90F236}
+	EndGlobalSection
+EndGlobal
